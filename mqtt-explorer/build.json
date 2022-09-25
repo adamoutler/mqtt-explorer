@@ -1,0 +1,8 @@
+{
+  "build_from": {
+    "amd64": "smeagolworms4/mqtt-explorer:latest",
+    "aarch64": "smeagolworms4/mqtt-explorer:latest",
+    "armhf": "smeagolworms4/mqtt-explorer:latest",
+    "armv7": "smeagolworms4/mqtt-explorer:latest"
+  }
+}

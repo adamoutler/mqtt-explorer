@@ -1,0 +1,12 @@
+{
+  "image": "smeagolworms4/mqtt-explorer",
+  "name": "MQTT Explorer",
+  "version": "browser-1.0.1",
+  "slug": "mqtt-explorer",
+  "description": "Explore your MQTT.",
+  "arch": ["armv7", "aarch64", "amd64"],
+  "url": "https://hub.docker.com/r/smeagolworms4",
+  "ingress_port" : 4000,
+  "ingress": true,
+  "environment" : { "CONFIG_PATH": "/data" }
+}
