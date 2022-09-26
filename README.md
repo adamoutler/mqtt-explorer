@@ -9,7 +9,7 @@ If you like this, and want to see more, encourage more development.
 
 ## Use
 Login screen
-![Login screen](img/mqtt%20explorer.jpg)
+![Login screen](img/mqtt%20explorer.png)
 Displaying charts of activity
 ![Displaying charts of activity](img/charts.png)
 Works on mobile
