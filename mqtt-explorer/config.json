@@ -3,10 +3,12 @@
   "name": "MQTT Explorer",
   "version": "browser-1.0.1",
   "slug": "mqtt-explorer",
-  "description": "Explore your MQTT.",
+  "description": "An all-round MQTT client that provides a structured topic overview.",
   "arch": ["armv7", "aarch64", "amd64"],
   "url": "https://hub.docker.com/r/smeagolworms4",
   "ingress_port" : 4000,
+  "panel_icon" : "mdi:network-pos",
+  "panel_title" : "MQTT Explorer",
   "ingress": true,
   "environment" : { "CONFIG_PATH": "/data" }
 }

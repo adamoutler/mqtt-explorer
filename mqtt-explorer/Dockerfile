@@ -1,5 +1,5 @@
-ARG BUILD_FROM=smeagolworms4/mqtt-explorer:latest
-# hadolint ignore=DL3006
+FROM smeagolworms4/mqtt-explorer
+
 ENV CONFIG_PATH=/data
 
 
