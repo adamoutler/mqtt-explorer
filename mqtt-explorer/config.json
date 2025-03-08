@@ -10,5 +10,8 @@
   "panel_icon" : "mdi:network-pos",
   "panel_title" : "MQTT Explorer",
   "ingress": true,
-  "environment" : { "CONFIG_PATH": "/data" }
+  "environment" : {
+    "BUNKER_DATA": "/data", 
+    "BUNKER_MQTT_DATA": "/var/lib/mosquitto"
+  }
 }
